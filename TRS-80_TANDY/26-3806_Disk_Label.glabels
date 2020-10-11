@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<Glabels-document version="4.0">
+  <Template brand="Online Labels" part="OL1649" size="US-Letter" description="Floppy disk Labels">
+    <Meta product_url="https://www.onlinelabels.com/products/ol1649"/>
+    <Label-rectangle id="0" x_waste="0pt" width="72pt" height="360pt" round="0pt" y_waste="0pt">
+      <Layout nx="7" dy="369pt" x0="27pt" y0="34.2pt" ny="2" dx="81pt"/>
+    </Label-rectangle>
+  </Template>
+  <Objects id="0" rotate="true">
+    <Object-box x="0pt" line_color="0x0" w="69pt" a5="0" fill_color="0xff" a3="1" a0="1" h="72pt" line_width="1pt" y="0pt" a2="0" a1="0" a4="0"/>
+    <Object-text font_weight="normal" a5="0" y="0pt" color="0xff" a4="0" wrap="word" h="18pt" font_underline="false" align="right" x="68.992pt" line_spacing="1" a1="0" font_italic="false" a2="0" font_family="FreeSans" valign="vcenter" auto_shrink="false" w="290pt" a0="1" a3="1" font_size="5">
+      <p>100/200                                                                                    26-3806</p>
+    </Object-text>
+    <Object-text font_weight="normal" a5="0" y="27.88pt" color="0xff" a4="0" wrap="word" h="17.856pt" font_underline="false" align="hcenter" x="68pt" line_spacing="1" a1="0" font_italic="false" a2="0" font_family="Sans" valign="vcenter" auto_shrink="false" w="181pt" a0="1" a3="1" font_size="8">
+      <p>Disk Video Interface</p>
+    </Object-text>
+    <Object-line x="74pt" line_color="0xff" a5="0" dy="0pt" a3="1" a0="1" line_width="0.7pt" y="18pt" a2="0" a1="0" dx="286pt" a4="0"/>
+    <Object-line x="74pt" line_color="0xff" a5="0" dy="0pt" a3="1" a0="1" line_width="0.7pt" y="50.064pt" a2="0" a1="0" dx="286pt" a4="0"/>
+    <Object-image x="5.704pt" w="57.528pt" a5="0" a3="1" a0="1" h="12.5357pt" y="29.784pt" a2="0" a1="0" src="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" a4="0"/>
+    <Object-text font_weight="normal" a5="0" y="61pt" color="0xff" a4="0" wrap="word" h="11pt" font_underline="false" align="left" x="173pt" line_spacing="1" a1="0" font_italic="false" a2="0" font_family="Sans" valign="vcenter" auto_shrink="false" w="187pt" a0="1" a3="1" font_size="2">
+      <p>Backup copies of this disk made with a Model 100 or 102 will not work on model 200.</p>
+      <p>Backup copies of this disk made with a Model 200 will work on models 100, 102, and 200.</p>
+    </Object-text>
+    <Object-text font_weight="normal" a5="0" y="50pt" color="0xff" a4="0" wrap="word" h="22pt" font_underline="false" align="hcenter" x="63pt" line_spacing="1" a1="0" font_italic="false" a2="0" font_family="Noto Sans Mono" valign="vcenter" auto_shrink="false" w="92pt" a0="1" a3="1" font_size="5">
+      <p>01.00.00.200</p>
+    </Object-text>
+  </Objects>
+  <Data>
+    <File name="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" encoding="cdata" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="205.19859mm"
+   height="44.71405mm"
+   viewBox="0 0 205.19859 44.714049"
+   version="1.1"
+   id="svg90">
+  <defs
+     id="defs84" />
+  <metadata
+     id="metadata87">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.4780893,-4.0120182)"
+     id="layer1">
+    <g
+       transform="matrix(0.28222222,0,0,-0.28222222,3.4780893,47.726069)"
+       id="g157"
+       style="opacity:1;fill:#ffffff;fill-opacity:1">
+      <g
+         transform="scale(0.1)"
+         id="g159"
+         style="opacity:1;fill:#ffffff;fill-opacity:1">
+        <path
+           id="path161"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1653.82,621.355 193.78,546.135 206.61,-546.135 z m 443.92,892.135 h -509.3 L 1051.9,0 h 381.18 l 214.61,605.402 180.98,-309.101 h 350.75 L 2289.92,0 h 381.18 l -573.36,1513.49" />
+        <path
+           id="path163"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 7199.95,1513.49 h -419.61 l -368.36,-509.3 -366.77,509.3 H 5622.4 L 6222.99,687.086 V 0 h 379.57 v 687.086 l 597.39,826.404" />
+        <path
+           id="path165"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 3296.43,1513.49 H 2736.68 V 0 h 357.96 V 1153.13 L 3671.19,0 h 565.37 V 1513.49 H 3868.19 V 369.969 L 3296.43,1513.49" />
+        <path
+           id="path167"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 5024.57,329.93 H 4745.9 v 861.64 h 278.67 c 156.96,-4.79 245.04,-19.22 310.71,-91.28 64.06,-68.87 107.31,-219.423 107.31,-363.552 0,-283.488 -142.55,-395.597 -418.02,-406.808 z m 581.37,1045.84 c -127.32,120.91 -252.24,137.72 -573.35,137.72 H 4377.54 V 0 h 655.05 c 264.25,2.41016 440.43,28.8398 586.17,164.961 131.33,123.328 211.4,347.539 211.4,584.586 0,254.643 -83.28,493.273 -224.22,626.223" />
+        <path
+           id="path169"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,1513.49 V 1181.97 H 474.066 V 0 h 376.372 v 1181.97 h 414.812 l 124.92,331.52 H 0" />
+      </g>
+    </g>
+  </g>
+</svg>
+]]></File>
+  </Data>
+</Glabels-document>
