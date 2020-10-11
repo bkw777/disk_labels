@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template description="3.5&quot; Floppy Disk" part="OL775 (bkw)" size="US-Letter" brand="Online Labels">
-    <Label-rectangle round="9pt" x_waste="0pt" height="144pt" id="0" y_waste="0pt" width="192.6pt">
-      <Markup-margin size="0pt"/>
-      <Layout dx="196.56pt" y0="19.44pt" ny="5" dy="153.36pt" x0="12.24pt" nx="3"/>
+  <Template brand="Online Labels" part="OL775" size="US-Letter" description="Floppy disk labels">
+    <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
+    <Label-rectangle round="9pt" height="144pt" y_waste="3.6pt" id="0" width="192.6pt" x_waste="2.16pt">
+      <Layout nx="3" y0="18pt" ny="5" x0="11.7pt" dy="153pt" dx="198pt"/>
     </Label-rectangle>
   </Template>
-  <Objects id="0" rotate="false">
-    <Object-box w="195pt" a3="1" h="46pt" a2="0" y="99pt" a1="0" line_width="0pt" fill_color="0x555753ff" a0="1" line_color="0x0" a4="0" a5="0" x="-1pt"/>
-    <Object-text h="28pt" a4="0" font_family="Sans" x="4pt" line_spacing="1" font_size="8" y="48pt" color="0x555753ff" a2="0" a1="0" valign="top" w="134pt" font_weight="normal" a0="1" a3="1" font_underline="false" wrap="word" align="left" a5="0" font_italic="false" auto_shrink="false">
+  <Objects rotate="false" id="0">
+    <Object-box shadow_color="0xff" y="99pt" line_color="0x0" h="46pt" fill_color="0x555753ff" shadow="false" a3="1" a1="0" shadow_opacity="1" shadow_y="0pt" a2="0" line_width="0pt" a0="1" a4="0" x="-1pt" a5="0" shadow_x="0pt" lock_aspect_ratio="false" w="195pt"/>
+    <Object-text shadow_color="0xff" font_weight="normal" y="48pt" h="28pt" font_size="8" shadow="false" a3="1" color="0x555753ff" a1="0" shadow_opacity="1" shadow_y="0pt" font_family="Sans" a2="0" valign="top" align="left" wrap="word" a0="1" a4="0" font_underline="false" line_spacing="1" x="4pt" a5="0" shadow_x="0pt" lock_aspect_ratio="false" font_italic="false" auto_shrink="false" w="134pt">
       <p>Utility Diskette</p>
     </Object-text>
-    <Object-text h="18pt" a4="0" font_family="Sans" x="137pt" line_spacing="1" font_size="5" y="0pt" color="0x555753ff" a2="0" a1="0" valign="top" w="50pt" font_weight="normal" a0="1" a3="1" font_underline="false" wrap="word" align="left" a5="0" font_italic="false" auto_shrink="false">
+    <Object-text shadow_color="0xff" font_weight="normal" y="0pt" h="18pt" font_size="5" shadow="false" a3="1" color="0x555753ff" a1="0" shadow_opacity="1" shadow_y="0pt" font_family="Sans" a2="0" valign="top" align="left" wrap="word" a0="1" a4="0" font_underline="false" line_spacing="1" x="137pt" a5="0" shadow_x="0pt" lock_aspect_ratio="false" font_italic="false" auto_shrink="false" w="50pt">
       <p>26-3814</p>
     </Object-text>
-    <Object-line dx="193pt" a3="1" a2="0" y="18pt" a1="0" line_width="1pt" a0="1" dy="0pt" line_color="0x555753ff" a4="0" a5="0" x="0pt"/>
-    <Object-line dx="193pt" a3="1" a2="0" y="76pt" a1="0" line_width="1pt" a0="1" dy="0pt" line_color="0x555753ff" a4="0" a5="0" x="0pt"/>
-    <Object-image w="72pt" a3="1" h="15.6892pt" a2="0" y="107pt" a1="0" a0="1" src="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" a4="0" a5="0" x="8pt"/>
+    <Object-line a3="1" shadow="false" shadow_opacity="1" a1="0" a4="0" a5="0" line_color="0x555753ff" a2="0" shadow_y="0pt" x="0pt" shadow_color="0xff" a0="1" shadow_x="0pt" line_width="1pt" y="18pt" dy="0pt" dx="193pt"/>
+    <Object-line a3="1" shadow="false" shadow_opacity="1" a1="0" a4="0" a5="0" line_color="0x555753ff" a2="0" shadow_y="0pt" x="0pt" shadow_color="0xff" a0="1" shadow_x="0pt" line_width="1pt" y="76pt" dy="0pt" dx="193pt"/>
+    <Object-image lock_aspect_ratio="false" a3="1" shadow="false" shadow_opacity="1" src="resources/Tandy_logo_white.svg" h="15.6892pt" a1="0" a4="0" a5="0" a2="0" shadow_y="0pt" x="8pt" shadow_color="0xff" a0="1" shadow_x="0pt" y="107pt" w="71.9998pt"/>
   </Objects>
   <Data>
-    <File name="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <File name="resources/Tandy_logo_white.svg" encoding="cdata" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg

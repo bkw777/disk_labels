@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template part="OL775 (bkw)" size="US-Letter" description="3.5&quot; Floppy Disk" brand="Online Labels">
-    <Label-rectangle width="192.6pt" id="0" height="144pt" round="9pt" x_waste="0pt" y_waste="0pt">
-      <Markup-margin size="0pt"/>
-      <Layout nx="3" ny="5" dx="196.56pt" y0="19.44pt" x0="12.24pt" dy="153.36pt"/>
+  <Template part="OL775" size="US-Letter" brand="Online Labels" description="Floppy disk labels">
+    <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
+    <Label-rectangle x_waste="2.16pt" round="9pt" width="192.6pt" id="0" y_waste="3.6pt" height="144pt">
+      <Layout dx="198pt" nx="3" y0="18pt" ny="5" x0="11.7pt" dy="153pt"/>
     </Label-rectangle>
   </Template>
-  <Objects id="0" rotate="false">
-    <Object-text a0="1" font_italic="false" font_size="8" auto_shrink="false" color="0xff" a1="0" valign="vcenter" align="hcenter" line_spacing="1" font_family="Liberation Sans" a4="0" y="27.36pt" font_underline="false" x="0.36pt" w="192pt" a5="0" wrap="word" font_weight="bold" a3="1" a2="0" h="25pt">
+  <Objects rotate="false" id="0">
+    <Object-text valign="vcenter" shadow_opacity="1" color="0xff" align="hcenter" a2="0" shadow_y="0pt" font_family="Liberation Sans" auto_shrink="false" a5="0" shadow="false" shadow_x="0pt" font_size="8" a0="1" font_underline="false" x="0.36pt" line_spacing="1" a3="1" w="192pt" lock_aspect_ratio="false" y="27.36pt" a1="0" shadow_color="0xff" wrap="word" h="25pt" font_italic="false" a4="0" font_weight="bold">
       <p>Portable Disk Drive</p>
     </Object-text>
-    <Object-box w="180pt" a2="0" line_width="1pt" a0="1" fill_color="0x0" a4="0" a3="1" a5="0" y="53pt" a1="0" line_color="0xff" x="6pt" h="84pt"/>
-    <Object-text a0="1" font_italic="false" font_size="3" auto_shrink="false" color="0xff" a1="0" valign="top" align="left" line_spacing="1" font_family="DejaVu Sans Mono" a4="0" y="55pt" font_underline="false" x="8pt" w="176pt" a5="0" wrap="word" font_weight="normal" a3="1" a2="0" h="80pt">
+    <Object-box shadow_opacity="1" a2="0" shadow_y="0pt" fill_color="0x0" a5="0" shadow="false" shadow_x="0pt" a0="1" x="6pt" a3="1" line_color="0xff" w="180pt" lock_aspect_ratio="false" y="53pt" a1="0" shadow_color="0xff" h="84pt" a4="0" line_width="1pt"/>
+    <Object-text valign="top" shadow_opacity="1" color="0xff" align="left" a2="0" shadow_y="0pt" font_family="DejaVu Sans Mono" auto_shrink="false" a5="0" shadow="false" shadow_x="0pt" font_size="3" a0="1" font_underline="false" x="8pt" line_spacing="1" a3="1" w="176pt" lock_aspect_ratio="false" y="55pt" a1="0" shadow_color="0xff" wrap="word" h="80pt" font_italic="false" a4="0" font_weight="normal">
       <p>Drive power OFF</p>
       <p>Dip switches all ON (small cover on bottom)</p>
       <p>Drive power ON</p>
@@ -24,14 +24,14 @@
       <p>Dip switches all OFF</p>
       <p></p>
     </Object-text>
-    <Object-box w="195pt" a2="0" line_width="1.6pt" a0="1" fill_color="0x888a85ff" a4="0" a3="1" a5="0" y="-2pt" a1="0" line_color="0x0" x="-1pt" h="29pt"/>
-    <Object-text a0="1" font_italic="false" font_size="5" auto_shrink="false" color="0xffffffff" a1="0" valign="vcenter" align="right" line_spacing="1" font_family="Liberation Sans" a4="0" y="4.872pt" font_underline="false" x="144.568pt" w="43.448pt" a5="0" wrap="word" font_weight="bold" a3="1" a2="0" h="12.704pt">
+    <Object-box shadow_opacity="1" a2="0" shadow_y="0pt" fill_color="0x888a85ff" a5="0" shadow="false" shadow_x="0pt" a0="1" x="-1pt" a3="1" line_color="0x0" w="195pt" lock_aspect_ratio="false" y="-2pt" a1="0" shadow_color="0xff" h="29pt" a4="0" line_width="1.6pt"/>
+    <Object-text valign="vcenter" shadow_opacity="1" color="0xffffffff" align="right" a2="0" shadow_y="0pt" font_family="Liberation Sans" auto_shrink="false" a5="0" shadow="false" shadow_x="0pt" font_size="5" a0="1" font_underline="false" x="144.568pt" line_spacing="1" a3="1" w="43.448pt" lock_aspect_ratio="false" y="4.872pt" a1="0" shadow_color="0xff" wrap="word" h="12.704pt" font_italic="false" a4="0" font_weight="bold">
       <p>26-3808</p>
     </Object-text>
-    <Object-image w="72pt" a2="0" a0="1" a4="0" a3="1" a5="0" y="5.712pt" a1="0" src="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" x="5.864pt" h="15.6892pt"/>
+    <Object-image src="resources/Tandy_logo_white.svg" a4="0" a5="0" y="5.712pt" w="71.9998pt" a1="0" shadow="false" a3="1" shadow_opacity="1" lock_aspect_ratio="false" h="15.6892pt" a0="1" shadow_x="0pt" x="5.864pt" a2="0" shadow_y="0pt" shadow_color="0xff"/>
   </Objects>
   <Data>
-    <File name="/home/bkw/Documents/TRS-80/logos/Tandy_logo_white.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <File name="resources/Tandy_logo_white.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg

@@ -1,25 +1,4 @@
-<?xml version="1.0"?>
-<Glabels-document version="4.0">
-  <Template size="US-Letter" description="Floppy disk labels" part="OL775" brand="Online Labels">
-    <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
-    <Label-rectangle id="0" x_waste="2.16pt" round="9pt" y_waste="3.6pt" width="192.6pt" height="144pt">
-      <Layout nx="3" dx="198pt" dy="153pt" ny="5" x0="11.7pt" y0="18pt"/>
-    </Label-rectangle>
-  </Template>
-  <Objects rotate="false" id="0">
-    <Object-box a4="0" a0="1" a1="0" lock_aspect_ratio="false" shadow_y="0pt" a5="0" w="195pt" h="46pt" y="99pt" shadow_color="0xff" shadow_opacity="1" line_width="0pt" shadow_x="0pt" line_color="0x0" shadow="false" a2="0" a3="1" x="-1pt" fill_color="0x555753ff"/>
-    <Object-text font_size="8" a4="0" a0="1" valign="top" lock_aspect_ratio="false" a1="0" a5="0" shadow_y="0pt" w="134pt" h="28pt" y="48pt" shadow_color="0xff" font_italic="false" align="left" shadow_opacity="1" shadow_x="0pt" font_underline="false" auto_shrink="false" color="0x555753ff" shadow="false" line_spacing="1" wrap="word" a2="0" font_family="Sans" a3="1" font_weight="normal" x="4pt">
-      <p>Utility Diskette</p>
-    </Object-text>
-    <Object-text font_size="5" a4="0" a0="1" valign="top" lock_aspect_ratio="false" a1="0" a5="0" shadow_y="0pt" w="50pt" h="18pt" y="0pt" shadow_color="0xff" font_italic="false" align="left" shadow_opacity="1" shadow_x="0pt" font_underline="false" auto_shrink="false" color="0x555753ff" shadow="false" line_spacing="1" wrap="word" a2="0" font_family="Sans" a3="1" font_weight="normal" x="137pt">
-      <p>26-3808</p>
-    </Object-text>
-    <Object-line a1="0" a0="1" a3="1" dx="193pt" shadow_opacity="1" dy="0pt" line_color="0x555753ff" a2="0" shadow_color="0xff" x="0pt" line_width="1pt" shadow_y="0pt" y="18pt" shadow="false" a4="0" a5="0" shadow_x="0pt"/>
-    <Object-line a1="0" a0="1" a3="1" dx="193pt" shadow_opacity="1" dy="0pt" line_color="0x555753ff" a2="0" shadow_color="0xff" x="0pt" line_width="1pt" shadow_y="0pt" y="76pt" shadow="false" a4="0" a5="0" shadow_x="0pt"/>
-    <Object-image a1="0" src="resources/Tandy_logo_white.svg" a0="1" a3="1" shadow_opacity="1" w="71.9998pt" a2="0" shadow_color="0xff" x="8pt" h="15.6892pt" lock_aspect_ratio="false" shadow_y="0pt" y="107pt" shadow="false" a4="0" a5="0" shadow_x="0pt"/>
-  </Objects>
-  <Data>
-    <File encoding="cdata" name="resources/Tandy_logo_white.svg" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -119,6 +98,3 @@
     </g>
   </g>
 </svg>
-]]></File>
-  </Data>
-</Glabels-document>

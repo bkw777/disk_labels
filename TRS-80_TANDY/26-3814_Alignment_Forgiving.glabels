@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template description="3.5&quot; Floppy Disk" part="OL775 (bkw)" size="US-Letter" brand="Online Labels">
-    <Label-rectangle round="9pt" x_waste="0pt" height="144pt" id="0" y_waste="0pt" width="192.6pt">
-      <Markup-margin size="0pt"/>
-      <Layout dx="196.56pt" y0="19.44pt" ny="5" dy="153.36pt" x0="12.24pt" nx="3"/>
+  <Template part="OL775" description="Floppy disk labels" brand="Online Labels" size="US-Letter">
+    <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
+    <Label-rectangle x_waste="2.16pt" id="0" width="192.6pt" height="144pt" y_waste="3.6pt" round="9pt">
+      <Layout nx="3" x0="11.7pt" dy="153pt" y0="18pt" dx="198pt" ny="5"/>
     </Label-rectangle>
   </Template>
-  <Objects id="0" rotate="false">
-    <Object-text h="18pt" a4="0" font_family="Sans" x="142.808pt" line_spacing="1" font_size="5" y="-0.568pt" color="0xff" a2="0" a1="0" valign="top" w="50pt" font_weight="normal" a0="1" a3="1" font_underline="false" wrap="word" align="left" a5="0" font_italic="false" auto_shrink="false">
+  <Objects rotate="false" id="0">
+    <Object-text a3="1" auto_shrink="false" shadow_opacity="1" font_weight="normal" shadow_color="0xff" wrap="word" shadow_y="0pt" shadow_x="0pt" shadow="false" h="18pt" font_underline="false" line_spacing="1" a0="1" font_family="Sans" a2="0" valign="top" font_italic="false" y="-0.568pt" a1="0" a4="0" font_size="5" align="left" x="142.808pt" w="50pt" color="0xff" lock_aspect_ratio="false" a5="0">
       <p>26-3814</p>
     </Object-text>
-    <Object-image w="54pt" a3="1" h="11.3513pt" a2="0" y="5pt" a1="0" a0="1" src="/home/bkw/Documents/TRS-80/logos/Tandy_logo.svg" a4="0" a5="0" x="6pt"/>
-    <Object-text h="33.984pt" a4="0" font_family="Sans" x="0pt" line_spacing="1" font_size="6" y="17.064pt" color="0xff" a2="0" a1="0" valign="vcenter" w="192.528pt" font_weight="normal" a0="1" a3="1" font_underline="false" wrap="word" align="hcenter" a5="0" font_italic="false" auto_shrink="false">
+    <Object-image shadow_x="0pt" shadow_y="0pt" h="11.3513pt" src="resources/Tandy_logo.svg" a4="0" shadow_opacity="1" a2="0" lock_aspect_ratio="false" a3="1" w="54pt" shadow="false" a5="0" y="5pt" a1="0" x="6pt" a0="1" shadow_color="0xff"/>
+    <Object-text a3="1" auto_shrink="false" shadow_opacity="1" font_weight="normal" shadow_color="0xff" wrap="word" shadow_y="0pt" shadow_x="0pt" shadow="false" h="33.984pt" font_underline="false" line_spacing="1" a0="1" font_family="Sans" a2="0" valign="vcenter" font_italic="false" y="17.064pt" a1="0" a4="0" font_size="6" align="hcenter" x="0pt" w="192.528pt" color="0xff" lock_aspect_ratio="false" a5="0">
       <p>Portable Disk Drive 2</p>
       <p>Utility Diskette</p>
     </Object-text>
-    <Object-box w="180pt" a3="1" h="84pt" a2="0" y="53pt" a1="0" line_width="1pt" fill_color="0x0" a0="1" line_color="0xff" a4="0" a5="0" x="6pt"/>
-    <Object-text h="80pt" a4="0" font_family="Sans" x="8pt" line_spacing="1" font_size="4" y="55pt" color="0xff" a2="0" a1="0" valign="top" w="176pt" font_weight="normal" a0="1" a3="1" font_underline="false" wrap="word" align="left" a5="0" font_italic="false" auto_shrink="false">
+    <Object-box a3="1" line_width="1pt" shadow_opacity="1" shadow_color="0xff" shadow_y="0pt" line_color="0xff" shadow_x="0pt" shadow="false" h="84pt" a0="1" a2="0" a4="0" y="53pt" a1="0" x="6pt" fill_color="0x0" w="180pt" lock_aspect_ratio="false" a5="0"/>
+    <Object-text a3="1" auto_shrink="false" shadow_opacity="1" font_weight="normal" shadow_color="0xff" wrap="word" shadow_y="0pt" shadow_x="0pt" shadow="false" h="80pt" font_underline="false" line_spacing="1" a0="1" font_family="Sans" a2="0" valign="top" font_italic="false" y="55pt" a1="0" a4="0" font_size="4" align="left" x="8pt" w="176pt" color="0xff" lock_aspect_ratio="false" a5="0">
       <p>Drive power OFF</p>
       <p></p>
       <p>BASIC:</p>
@@ -28,7 +28,7 @@
     </Object-text>
   </Objects>
   <Data>
-    <File name="/home/bkw/Documents/TRS-80/logos/Tandy_logo.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <File encoding="cdata" name="resources/Tandy_logo.svg" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
