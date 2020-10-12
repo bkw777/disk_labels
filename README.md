@@ -20,3 +20,7 @@ If you're not using a laser printer, then don't use the actual label stock linke
 
 For 5 1/4" floppies, a good write-protect sticker is ChromaLabel 1" x 3/4" in black. https://www.chromalabel.com/products/1-3-4-inch-color-code-squares
 
+![](disk_labels_1.jpg)  
+![](disk_labels_2.jpg)  
+![](disk_labels_3.jpg)  
+![](disk_labels_4.jpg)  
