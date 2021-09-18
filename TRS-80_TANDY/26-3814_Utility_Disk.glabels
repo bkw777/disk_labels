@@ -1,34 +1,32 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template description="Floppy disk labels" brand="Online Labels" size="US-Letter" part="OL775">
+  <Template brand="Online Labels" size="US-Letter" description="Floppy disk labels" part="OL775">
     <Meta product_url="http://www.onlinelabels.com/OL775.htm"/>
-    <Label-rectangle id="0" height="144pt" y_waste="3.6pt" width="192.6pt" round="9pt" x_waste="2.16pt">
-      <Layout nx="3" y0="18pt" x0="11.7pt" dx="198pt" dy="153pt" ny="5"/>
+    <Label-rectangle id="0" x_waste="2.16pt" y_waste="3.6pt" width="192.6pt" height="144pt" round="9pt">
+      <Layout nx="3" dx="198pt" y0="18pt" x0="11.7pt" dy="153pt" ny="5"/>
     </Label-rectangle>
   </Template>
   <Objects id="0" rotate="false">
-    <Object-text x="0pt" font_weight="bold" a3="1" auto_shrink="false" a0="1" shadow_y="0pt" a1="0" a4="0" font_size="8" valign="vcenter" wrap="word" font_italic="false" align="hcenter" y="27.936pt" color="0xff" a5="0" lock_aspect_ratio="false" h="24.048pt" shadow_opacity="1" a2="0" w="192.528pt" shadow_color="0xff" shadow_x="0pt" line_spacing="1" font_underline="false" shadow="false" font_family="Liberation Sans">
+    <Object-text lock_aspect_ratio="false" shadow_y="0pt" font_family="Noto Sans" a3="1" font_size="8" a0="1" font_underline="false" shadow="false" auto_shrink="false" a5="0" color="0xff" align="hcenter" w="192.528pt" x="0pt" wrap="word" a1="0" h="24.048pt" a2="0" font_italic="false" shadow_opacity="1" y="27.936pt" shadow_x="0pt" a4="0" valign="vcenter" font_weight="bold" shadow_color="0xff" line_spacing="1">
       <p>Portable Disk Drive 2</p>
     </Object-text>
-    <Object-box x="6pt" a3="1" a0="1" shadow_y="0pt" a4="0" a1="0" line_width="1pt" y="53pt" a5="0" lock_aspect_ratio="false" h="84pt" shadow_opacity="1" a2="0" w="180pt" shadow_color="0xff" fill_color="0x0" shadow_x="0pt" line_color="0xff" shadow="false"/>
-    <Object-text x="8pt" font_weight="normal" a3="1" auto_shrink="false" a0="1" shadow_y="0pt" a1="0" a4="0" font_size="4" valign="top" wrap="word" font_italic="false" align="left" y="55pt" color="0xff" a5="0" lock_aspect_ratio="false" h="80pt" shadow_opacity="1" a2="0" w="176pt" shadow_color="0xff" shadow_x="0pt" line_spacing="1" font_underline="false" shadow="false" font_family="Sans">
+    <Object-text lock_aspect_ratio="false" shadow_y="0pt" font_family="Monospace" a3="1" font_size="5" a0="1" font_underline="false" shadow="false" auto_shrink="false" a5="0" color="0xff" align="left" w="190pt" x="3pt" wrap="word" a1="0" h="80pt" a2="0" font_italic="false" shadow_opacity="1" y="55pt" shadow_x="0pt" a4="0" valign="vcenter" font_weight="normal" shadow_color="0xff" line_spacing="0.8">
       <p>Drive power OFF</p>
       <p></p>
       <p>BASIC:</p>
       <p></p>
-      <p>     RUN "COM:98N1ENN" [Enter]</p>
+      <p>    RUN "COM:98N1ENN" [Enter]</p>
       <p></p>
       <p>Drive power ON</p>
-      <p></p>
     </Object-text>
-    <Object-box x="-1pt" a3="1" a0="1" shadow_y="0pt" a4="0" a1="0" line_width="1pt" y="-2pt" a5="0" lock_aspect_ratio="false" h="29.296pt" shadow_opacity="1" a2="0" w="195pt" shadow_color="0xff" fill_color="0x888a85ff" shadow_x="0pt" line_color="0x0" shadow="false"/>
-    <Object-text x="144.512pt" font_weight="bold" a3="1" auto_shrink="false" a0="1" shadow_y="0pt" a1="0" a4="0" font_size="5" valign="vcenter" wrap="word" font_italic="false" align="right" y="4.064pt" color="0xffffffff" a5="0" lock_aspect_ratio="false" h="12.296pt" shadow_opacity="1" a2="0" w="43.808pt" shadow_color="0xff" shadow_x="0pt" line_spacing="1" font_underline="false" shadow="false" font_family="Liberation Sans">
+    <Object-box lock_aspect_ratio="false" line_width="1pt" shadow_y="0pt" a3="1" a0="1" shadow="false" a5="0" w="199pt" x="-3pt" a1="0" h="31.296pt" a2="0" fill_color="0x888a85ff" shadow_opacity="1" y="-4pt" shadow_x="0pt" line_color="0x0" a4="0" shadow_color="0xff"/>
+    <Object-text lock_aspect_ratio="false" shadow_y="0pt" font_family="Liberation Sans" a3="1" font_size="5" a0="1" font_underline="false" shadow="false" auto_shrink="false" a5="0" color="0xffffffff" align="right" w="43.808pt" x="144.512pt" wrap="word" a1="0" h="12.296pt" a2="0" font_italic="false" shadow_opacity="1" y="4.064pt" shadow_x="0pt" a4="0" valign="vcenter" font_weight="bold" shadow_color="0xff" line_spacing="1">
       <p>26-3814</p>
     </Object-text>
-    <Object-image a0="1" shadow_y="0pt" y="5.568pt" w="72pt" lock_aspect_ratio="false" src="resources/Tandy_logo_white.svg" x="6.488pt" h="15.6892pt" shadow_color="0xff" a3="1" a4="0" a1="0" shadow_x="0pt" a2="0" a5="0" shadow_opacity="1" shadow="false"/>
+    <Object-image shadow_color="0xff" h="15.6892pt" lock_aspect_ratio="false" a5="0" shadow_y="0pt" a4="0" w="72pt" shadow="false" src="resources/Tandy_logo_white.svg" a0="1" a3="1" x="6.488pt" y="5.568pt" a1="0" shadow_x="0pt" a2="0" shadow_opacity="1"/>
   </Objects>
   <Data>
-    <File encoding="cdata" mimetype="image/svg+xml" name="resources/Tandy_logo_white.svg"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+    <File encoding="cdata" name="resources/Tandy_logo_white.svg" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
