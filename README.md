@@ -6,7 +6,7 @@ These labels use [glabels](https://github.com/jimevins/glabels-qt).
 Each \*.glabels source file includes a link to the matching blank label stock, which is displayed in the Properties tab within the app.
 
 Printing hints for good results:  
-* Set the print quality options to greyscale and normal/high quality (not draft).  
+* Set the print quality options to greyscale and normal/high quality.  
 * Snug the guides in the paper tray right up to the paper so the guides touch the paper on both left & right so the stock is perfectly straight and perfectly centered.  
 * Set the paper type to heavy bond or gloss or card, 150 gram or more. Different printers and different printer drivers have different ways of saying this, but basically you need to tell the printer that the paper is thick and/or dense.  
 :Example, HP Color LaserJet MFP M281fdw: Front panel: Home -> Setup -> System Setup -> Paper Setup -> Default Paper Type -> Card Glossy 176-220g  
