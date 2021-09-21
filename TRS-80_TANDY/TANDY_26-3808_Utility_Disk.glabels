@@ -1,28 +1,35 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template description="Floppy disk Labels" part="OL1649" size="US-Letter" brand="Online Labels">
-    <Meta product_url="https://www.onlinelabels.com/products/ol1649"/>
-    <Label-rectangle x_waste="0pt" width="72pt" id="0" round="0pt" height="360pt" y_waste="0pt">
-      <Layout dy="369pt" dx="81pt" ny="2" nx="7" x0="27pt" y0="34.2pt"/>
+  <Template brand="Online Labels" part="OL775" description="3.5&quot; Floppy Disk, front only" size="US-Letter">
+    <Meta product_url="https://www.onlinelabels.com/ol775.htm"/>
+    <Label-rectangle id="0" round="9pt" height="144pt" y_waste="3.6pt" x_waste="2.16pt" width="192.6pt">
+      <Layout dx="198pt" x0="11.7pt" nx="3" ny="5" y0="18pt" dy="153pt"/>
     </Label-rectangle>
   </Template>
-  <Objects rotate="true" id="0">
-    <Object-box h="72pt" y="0pt" a0="1" shadow="false" a5="0" a2="0" shadow_color="0xff" line_width="1pt" a4="0" x="0pt" shadow_x="0pt" a1="0" a3="1" lock_aspect_ratio="false" w="69pt" shadow_opacity="1" fill_color="0xff" shadow_y="0pt" line_color="0x0"/>
-    <Object-text line_spacing="1" h="18pt" color="0xff" y="0pt" a0="1" font_italic="false" valign="vcenter" shadow="false" auto_shrink="false" a5="0" font_size="5" a2="0" shadow_color="0xff" font_weight="normal" x="68.992pt" a4="0" shadow_x="0pt" a1="0" a3="1" lock_aspect_ratio="false" w="290pt" shadow_opacity="1" font_family="FreeSans" wrap="word" shadow_y="0pt" align="right" font_underline="false">
-      <p>100/200                                                                                    26-3806</p>
+  <Objects id="0" rotate="false">
+    <Object-box a5="0" h="38pt" a0="1" a1="0" shadow_y="1.3pt" shadow="false" y="86pt" shadow_color="0xff" shadow_x="1.3pt" fill_color="0xeeeeecff" a4="0" w="175pt" x="9pt" line_color="0xff" a3="1" a2="0" shadow_opacity="0.5" lock_aspect_ratio="false" line_width="0.2pt"/>
+    <Object-text font_underline="false" a5="0" h="22pt" a0="1" a1="0" shadow_y="0pt" shadow="false" y="27pt" shadow_color="0xff" shadow_x="0pt" font_size="8" line_spacing="1" font_weight="bold" valign="vcenter" a4="0" w="193pt" auto_shrink="false" x="-1.37668e-14pt" align="hcenter" font_italic="false" color="0xff" a3="1" wrap="word" a2="0" shadow_opacity="1" lock_aspect_ratio="false" font_family="Liberation Sans">
+      <p>Portable Disk Drive</p>
     </Object-text>
-    <Object-text line_spacing="1" h="17.856pt" color="0xff" y="27.88pt" a0="1" font_italic="false" valign="vcenter" shadow="false" auto_shrink="false" a5="0" font_size="8" a2="0" shadow_color="0xff" font_weight="normal" x="68pt" a4="0" shadow_x="0pt" a1="0" a3="1" lock_aspect_ratio="false" w="181pt" shadow_opacity="1" font_family="Sans" wrap="word" shadow_y="0pt" align="hcenter" font_underline="false">
-      <p>Disk Video Interface</p>
+    <Object-text font_underline="false" a5="0" h="39pt" a0="1" a1="0" shadow_y="0pt" shadow="false" y="86pt" shadow_color="0xff" shadow_x="0pt" font_size="3" line_spacing="1.5" font_weight="normal" valign="vcenter" a4="0" w="175pt" auto_shrink="false" x="9pt" align="left" font_italic="false" color="0xff" a3="1" wrap="word" a2="0" shadow_opacity="1" lock_aspect_ratio="false" font_family="TI-83 Plus Large">
+      <p>1 OPEN "COM:88N1DNN" FOR OUTPUT AS #1</p>
+      <p>2 ? #1,"S10985157C00AD7EF08B3AS901FE"</p>
+      <p>3 RUN "COM:88N1ENN"</p>
+      <p>RUN</p>
     </Object-text>
-    <Object-line a1="0" dy="0pt" shadow="false" shadow_x="0pt" a2="0" shadow_opacity="1" dx="286pt" a4="0" y="18pt" a3="1" a5="0" shadow_y="0pt" x="74pt" a0="1" line_width="0.7pt" shadow_color="0xff" line_color="0xff"/>
-    <Object-line a1="0" dy="0pt" shadow="false" shadow_x="0pt" a2="0" shadow_opacity="1" dx="286pt" a4="0" y="50.064pt" a3="1" a5="0" shadow_y="0pt" x="74pt" a0="1" line_width="0.7pt" shadow_color="0xff" line_color="0xff"/>
-    <Object-image lock_aspect_ratio="false" a1="0" src="resources/Tandy_logo_white.svg" shadow="false" shadow_x="0pt" a2="0" shadow_opacity="1" a4="0" y="29.784pt" h="12.5357pt" a3="1" w="57.528pt" a5="0" shadow_y="0pt" x="5.704pt" a0="1" shadow_color="0xff"/>
-    <Object-text line_spacing="1" h="11pt" color="0xff" y="61pt" a0="1" font_italic="false" valign="vcenter" shadow="false" auto_shrink="false" a5="0" font_size="2" a2="0" shadow_color="0xff" font_weight="normal" x="173pt" a4="0" shadow_x="0pt" a1="0" a3="1" lock_aspect_ratio="false" w="187pt" shadow_opacity="1" font_family="Sans" wrap="word" shadow_y="0pt" align="left" font_underline="false">
-      <p>Backup copies of this disk made with a Model 100 or 102 will not work on model 200.</p>
-      <p>Backup copies of this disk made with a Model 200 will work on models 100, 102, and 200.</p>
+    <Object-box a5="0" h="31pt" a0="1" a1="0" shadow_y="0pt" shadow="false" y="-4pt" shadow_color="0xff" shadow_x="0pt" fill_color="0x888a85ff" a4="0" w="200pt" x="-4pt" line_color="0x0" a3="1" a2="0" shadow_opacity="1" lock_aspect_ratio="false" line_width="1.6pt"/>
+    <Object-text font_underline="false" a5="0" h="27pt" a0="1" a1="0" shadow_y="0pt" shadow="false" y="0pt" shadow_color="0xff" shadow_x="0pt" font_size="6" line_spacing="1" font_weight="bold" valign="vcenter" a4="0" w="67pt" auto_shrink="false" x="126pt" align="hcenter" font_italic="false" color="0xffffffff" a3="1" wrap="word" a2="0" shadow_opacity="1" lock_aspect_ratio="false" font_family="Liberation Sans">
+      <p>26-3808</p>
     </Object-text>
-    <Object-text line_spacing="1" h="22pt" color="0xff" y="50pt" a0="1" font_italic="false" valign="vcenter" shadow="false" auto_shrink="false" a5="0" font_size="5" a2="0" shadow_color="0xff" font_weight="normal" x="63pt" a4="0" shadow_x="0pt" a1="0" a3="1" lock_aspect_ratio="false" w="92pt" shadow_opacity="1" font_family="Noto Sans Mono" wrap="word" shadow_y="0pt" align="hcenter" font_underline="false">
-      <p>01.00.00.200</p>
+    <Object-image lock_aspect_ratio="false" shadow_x="0pt" shadow_y="0pt" a0="1" y="5.712pt" a4="0" shadow_opacity="1" h="15.6892pt" a2="0" a1="0" shadow="false" w="71.9998pt" src="resources/Tandy_logo_white.svg" x="6.864pt" a3="1" a5="0" shadow_color="0xff"/>
+    <Object-text font_underline="false" a5="0" h="14pt" a0="1" a1="0" shadow_y="1.3pt" shadow="false" y="71pt" shadow_color="0xff" shadow_x="1.3pt" font_size="4" line_spacing="1" font_weight="normal" valign="vcenter" a4="0" w="193pt" auto_shrink="false" x="0pt" align="hcenter" font_italic="false" color="0xff" a3="1" wrap="word" a2="0" shadow_opacity="0.5" lock_aspect_ratio="false" font_family="Liberation Sans">
+      <p>START:  Power OFF, Dip Switches ON, Power ON.</p>
+    </Object-text>
+    <Object-text font_underline="false" a5="0" h="14pt" a0="1" a1="0" shadow_y="1.3pt" shadow="false" y="124pt" shadow_color="0xff" shadow_x="1.3pt" font_size="4" line_spacing="1" font_weight="normal" valign="vcenter" a4="0" w="193pt" auto_shrink="false" x="0pt" align="hcenter" font_italic="false" color="0xff" a3="1" wrap="word" a2="0" shadow_opacity="0.5" lock_aspect_ratio="false" font_family="Liberation Sans">
+      <p>FINISH:  Power OFF, Dip Switches OFF, Power ON.</p>
+    </Object-text>
+    <Object-text font_underline="false" a5="0" h="20pt" a0="1" a1="0" shadow_y="0pt" shadow="false" y="45pt" shadow_color="0xff" shadow_x="0pt" font_size="8" line_spacing="1" font_weight="normal" valign="vcenter" a4="0" w="193pt" auto_shrink="false" x="-1.37668e-14pt" align="hcenter" font_italic="false" color="0xff" a3="1" wrap="word" a2="0" shadow_opacity="1" lock_aspect_ratio="false" font_family="Liberation Sans">
+      <p>Utility Disk</p>
     </Object-text>
   </Objects>
   <Data>
