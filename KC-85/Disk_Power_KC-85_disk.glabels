@@ -2,38 +2,38 @@
 <Glabels-document version="4.0">
   <Template brand="Online Labels" description="3.5&quot; Floppy Disk, front only" part="OL775" size="US-Letter">
     <Meta product_url="https://www.onlinelabels.com/ol775.htm"/>
-    <Label-rectangle width="192.6pt" height="144pt" id="0" y_waste="4.32pt" x_waste="2.52pt" round="9pt">
-      <Layout y0="18pt" dx="198pt" nx="3" ny="5" x0="11.7pt" dy="153pt"/>
+    <Label-rectangle height="144pt" width="192.6pt" x_waste="2.52pt" id="0" round="9pt" y_waste="4.32pt">
+      <Layout x0="11.7pt" y0="18pt" ny="5" nx="3" dy="153pt" dx="198pt"/>
     </Label-rectangle>
   </Template>
   <Objects id="0" rotate="false">
-    <Object-image x="-10pt" y="-8pt" w="205.283pt" a0="1" shadow_color="0xff" src="disk_power_kc-85_disk_label_accent_1.svg" a4="0" h="160pt" a2="0" lock_aspect_ratio="true" shadow="false" shadow_y="1.3pt" a5="0" shadow_x="1.3pt" a1="0" a3="1" shadow_opacity="0.5"/>
-    <Object-text a4="0" align="hcenter" shadow_x="1.3pt" y="18pt" a1="0" font_italic="false" font_weight="bold" font_underline="false" shadow_opacity="0.5" a0="1" valign="vcenter" font_family="Liberation Serif" font_size="8" a2="0" w="193pt" h="14pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="0pt" a3="1" line_spacing="1">
+    <Object-image y="-8pt" shadow="false" shadow_opacity="0.5" lock_aspect_ratio="true" a2="0" h="160pt" a3="1" w="205.283pt" shadow_color="0xff" a1="0" shadow_x="1.3pt" shadow_y="1.3pt" a5="0" a4="0" x="-10pt" a0="1" src="disk_power_kc-85_disk_label_accent_1.svg"/>
+    <Object-text font_italic="false" font_underline="false" font_family="Liberation Serif" shadow_x="1.3pt" shadow="false" valign="vcenter" font_weight="bold" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="18pt" x="0pt" a1="0" h="14pt" shadow_color="0xff" line_spacing="1" font_size="8" wrap="word" a0="1" align="hcenter" w="193pt" a2="0" shadow_opacity="0.5">
       <p>DISK POWER</p>
     </Object-text>
-    <Object-text a4="0" align="left" shadow_x="1.3pt" y="36pt" a1="0" font_italic="false" font_weight="normal" font_underline="false" shadow_opacity="0.5" a0="1" valign="vcenter" font_family="DejaVu Serif" font_size="5" a2="0" w="130pt" h="37pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="38.3pt" a3="1" line_spacing="1">
+    <Object-text font_italic="false" font_underline="false" font_family="DejaVu Serif" shadow_x="1.3pt" shadow="false" valign="vcenter" font_weight="normal" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="36pt" x="38.3pt" a1="0" h="37pt" shadow_color="0xff" line_spacing="1" font_size="5" wrap="word" a0="1" align="left" w="130pt" a2="0" shadow_opacity="0.5">
       <p>(C) 1987 Hugo Ferreyra</p>
       <p>V.01.00 Kyotronic KC-85</p>
       <p>   Serial#:</p>
     </Object-text>
-    <Object-text a4="0" align="left" shadow_x="1.3pt" y="60pt" a1="0" font_italic="false" font_weight="normal" font_underline="true" shadow_opacity="0.5" a0="1" valign="vcenter" font_family="DejaVu Serif" font_size="5" a2="0" w="53pt" h="13pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="99pt" a3="1" line_spacing="1">
+    <Object-text font_italic="false" font_underline="true" font_family="DejaVu Serif" shadow_x="1.3pt" shadow="false" valign="vcenter" font_weight="normal" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="60pt" x="99pt" a1="0" h="13pt" shadow_color="0xff" line_spacing="1" font_size="5" wrap="word" a0="1" align="left" w="53pt" a2="0" shadow_opacity="0.5">
       <p>DPKC101</p>
     </Object-text>
-    <Object-text a4="0" align="left" shadow_x="1.3pt" y="74pt" a1="0" font_italic="false" font_weight="normal" font_underline="false" shadow_opacity="0.5" a0="1" valign="top" font_family="DejaVu Sans Mono" font_size="3" a2="0" w="143pt" h="56pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="37pt" a3="1" line_spacing="2">
+    <Object-text font_italic="false" font_underline="false" font_family="DejaVu Sans Mono" shadow_x="1.3pt" shadow="false" valign="top" font_weight="normal" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="74pt" x="38pt" a1="0" h="56pt" shadow_color="0xff" line_spacing="2" font_size="3" wrap="word" a0="1" align="left" w="144pt" a2="0" shadow_opacity="0.5">
       <p>Licenced to: ULTRASOFT INNOVATIONS</p>
       <p>P.O. BOX 247, Champlain, NY 12919</p>
       <p>Tel:(514) 487-9293 Technical Assist.</p>
       <p>M A D E  I N  C A N A D A</p>
     </Object-text>
-    <Object-text a4="0" align="hcenter" shadow_x="1.3pt" y="22pt" a1="0" font_italic="false" font_weight="normal" font_underline="false" shadow_opacity="0.5" a0="1" valign="vcenter" font_family="Monospace" font_size="3" a2="0" w="9pt" h="6pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="152pt" a3="1" line_spacing="1">
+    <Object-text font_italic="false" font_underline="false" font_family="Monospace" shadow_x="1.3pt" shadow="false" valign="vcenter" font_weight="normal" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="22pt" x="152pt" a1="0" h="6pt" shadow_color="0xff" line_spacing="1" font_size="3" wrap="word" a0="1" align="hcenter" w="9pt" a2="0" shadow_opacity="0.5">
       <p>TM</p>
     </Object-text>
-    <Object-text a4="0" align="right" shadow_x="1.3pt" y="134pt" a1="0" font_italic="false" font_weight="normal" font_underline="false" shadow_opacity="0.5" a0="1" valign="vcenter" font_family="DejaVu Sans Mono" font_size="2" a2="0" w="40pt" h="6pt" shadow_y="1.3pt" a5="0" shadow="false" wrap="word" shadow_color="0xff" color="0xff" auto_shrink="false" lock_aspect_ratio="false" x="150pt" a3="1" line_spacing="1">
+    <Object-text font_italic="false" font_underline="false" font_family="DejaVu Sans Mono" shadow_x="1.3pt" shadow="false" valign="vcenter" font_weight="normal" a5="0" a4="0" shadow_y="1.3pt" lock_aspect_ratio="false" color="0xff" auto_shrink="false" a3="1" y="134pt" x="150pt" a1="0" h="6pt" shadow_color="0xff" line_spacing="1" font_size="2" wrap="word" a0="1" align="right" w="40pt" a2="0" shadow_opacity="0.5">
       <p>(reproduction)</p>
     </Object-text>
   </Objects>
   <Data>
-    <File mimetype="image/svg+xml" name="disk_power_kc-85_disk_label_accent_1.svg" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+    <File encoding="cdata" name="disk_power_kc-85_disk_label_accent_1.svg" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <svg width="68mm" height="53mm" version="1.1" viewBox="0 0 68 53" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-4.98517 -1.71013)">
   <path transform="scale(.264583)" d="m18.8416 6.4635 257.008 1.05e-4v30.2363h-207.874l-18.8977 170.079h-30.2363z" fill="#06f" stroke-width="1.00157"/>
