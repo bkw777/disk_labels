@@ -1,25 +1,28 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template part="OL775" brand="Online Labels" description="3.5&quot; Floppy Disk, front only" size="US-Letter">
+  <Template description="3.5&quot; Floppy Disk, front only" part="OL775" size="US-Letter" brand="Online Labels">
     <Meta product_url="https://www.onlinelabels.com/ol775.htm"/>
-    <Label-rectangle width="192.6pt" y_waste="3.6pt" height="144pt" round="9pt" x_waste="2.16pt" id="0">
-      <Layout nx="3" ny="5" y0="18pt" dy="153pt" x0="11.7pt" dx="198pt"/>
+    <Label-rectangle round="9pt" x_waste="2.16pt" y_waste="3.6pt" width="192.6pt" height="144pt" id="0">
+      <Layout dx="198pt" nx="3" ny="5" y0="18pt" dy="153pt" x0="11.7pt"/>
     </Label-rectangle>
   </Template>
-  <Objects rotate="false" id="0">
-    <Object-box shadow_y="0pt" h="48pt" a5="0" shadow_x="0pt" a3="1" a2="0" y="99pt" line_width="0pt" shadow_color="0xff" line_color="0x0" x="-3pt" fill_color="0x999999ff" a0="1" shadow="false" w="199pt" shadow_opacity="1" a1="0" a4="0" lock_aspect_ratio="false"/>
-    <Object-text font_size="8" line_spacing="1" h="26pt" shadow_y="0pt" wrap="word" font_underline="false" font_family="Liberation Sans" font_weight="normal" a5="0" shadow_x="0pt" a3="1" a2="0" y="50pt" auto_shrink="false" shadow_color="0xff" x="13pt" color="0x999999ff" align="left" a0="1" shadow="false" w="149pt" shadow_opacity="1" font_italic="false" a1="0" valign="vcenter" a4="0" lock_aspect_ratio="false">
+  <Objects id="0" rotate="false">
+    <Object-box a3="1" a1="0" shadow_opacity="1" line_color="0x0" shadow_x="0pt" a4="0" a2="0" shadow_color="0xff" w="199pt" shadow="false" h="48pt" lock_aspect_ratio="false" shadow_y="0pt" a5="0" fill_color="0x999999ff" x="-3pt" a0="1" line_width="0pt" y="99pt"/>
+    <Object-text a3="1" a1="0" font_italic="false" shadow_opacity="1" shadow_x="0pt" font_underline="false" a2="0" a4="0" shadow_color="0xff" w="149pt" valign="vcenter" shadow="false" font_family="Liberation Sans" h="26pt" lock_aspect_ratio="false" color="0x999999ff" font_weight="normal" align="left" shadow_y="0pt" font_size="8" a5="0" auto_shrink="false" line_spacing="1" x="13pt" wrap="word" a0="1" y="50pt">
       <p>Utility Diskette</p>
     </Object-text>
-    <Object-text font_size="5" line_spacing="1" h="18pt" shadow_y="0pt" wrap="word" font_underline="false" font_family="Liberation Sans" font_weight="bold" a5="0" shadow_x="0pt" a3="1" a2="0" y="0pt" auto_shrink="false" shadow_color="0xff" x="126pt" color="0x999999ff" align="hcenter" a0="1" shadow="false" w="67pt" shadow_opacity="1" font_italic="false" a1="0" valign="vcenter" a4="0" lock_aspect_ratio="false">
+    <Object-text a3="1" a1="0" font_italic="false" shadow_opacity="1" shadow_x="0pt" font_underline="false" a2="0" a4="0" shadow_color="0xff" w="67pt" valign="vcenter" shadow="false" font_family="Liberation Sans" h="18pt" lock_aspect_ratio="false" color="0x999999ff" font_weight="bold" align="hcenter" shadow_y="0pt" font_size="5" a5="0" auto_shrink="false" line_spacing="1" x="126pt" wrap="word" a0="1" y="0pt">
       <p>26-3814</p>
     </Object-text>
-    <Object-line a2="0" a5="0" dy="0pt" line_width="1pt" shadow_color="0xff" line_color="0x999999ff" x="0pt" a4="0" dx="193pt" a3="1" shadow_x="0pt" shadow_y="0pt" a0="1" y="18pt" a1="0" shadow="false" shadow_opacity="1"/>
-    <Object-line a2="0" a5="0" dy="0pt" line_width="1pt" shadow_color="0xff" line_color="0x999999ff" x="0pt" a4="0" dx="193pt" a3="1" shadow_x="0pt" shadow_y="0pt" a0="1" y="76pt" a1="0" shadow="false" shadow_opacity="1"/>
-    <Object-image a2="0" a5="0" shadow_color="0xff" w="71.9997pt" src="resources/TANDY.svg" lock_aspect_ratio="false" x="18pt" a4="0" a3="1" shadow_x="0pt" shadow_y="0pt" a0="1" y="112pt" a1="0" h="15.1349pt" shadow="false" shadow_opacity="1"/>
+    <Object-line dx="193pt" a1="0" a3="1" line_width="1pt" line_color="0x999999ff" shadow_color="0xff" a4="0" shadow_opacity="1" x="0pt" dy="0pt" a2="0" a5="0" shadow="false" a0="1" shadow_x="0pt" y="18pt" shadow_y="0pt"/>
+    <Object-line dx="193pt" a1="0" a3="1" line_width="1pt" line_color="0x999999ff" shadow_color="0xff" a4="0" shadow_opacity="1" x="0pt" dy="0pt" a2="0" a5="0" shadow="false" a0="1" shadow_x="0pt" y="76pt" shadow_y="0pt"/>
+    <Object-image src="resources/TANDY.svg" a1="0" a3="1" h="15.1349pt" w="71.9997pt" shadow_color="0xff" a4="0" shadow_opacity="1" x="18pt" lock_aspect_ratio="false" a2="0" a5="0" shadow="false" a0="1" shadow_x="0pt" y="112pt" shadow_y="0pt"/>
+    <Object-text a3="1" a1="0" font_italic="false" shadow_opacity="0.5" shadow_x="1.3pt" font_underline="false" a2="0" a4="0" shadow_color="0xff" w="193pt" valign="vcenter" shadow="false" font_family="DejaVu Sans Mono" h="9pt" lock_aspect_ratio="false" color="0xff" font_weight="normal" align="hcenter" shadow_y="1.3pt" font_size="2" a5="0" auto_shrink="false" line_spacing="1" x="0pt" wrap="word" a0="1" y="135pt">
+      <p>(reproduction)</p>
+    </Object-text>
   </Objects>
   <Data>
-    <File mimetype="image/svg+xml" name="resources/TANDY.svg" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+    <File name="resources/TANDY.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
 <svg width="203.199mm" height="42.714mm" version="1.1" viewBox="0 0 203.199 42.714" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(513.155 225.326)">
   <g transform="matrix(.282222 0 0 -.282222 -513.155 -182.612)" fill="#fff">
