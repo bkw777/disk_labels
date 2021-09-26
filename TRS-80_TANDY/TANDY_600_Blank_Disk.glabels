@@ -1,124 +1,38 @@
 <?xml version="1.0"?>
 <Glabels-document version="4.0">
-  <Template description="3.5&quot; Floppy Disk, front only" part="OL775" size="US-Letter" brand="Online Labels">
+  <Template description="3.5&quot; Floppy Disk, front only" brand="Online Labels" part="OL775" size="US-Letter">
     <Meta product_url="https://www.onlinelabels.com/ol775.htm"/>
-    <Label-rectangle x_waste="2.26772pt" round="9.01417pt" height="144pt" y_waste="3.6pt" id="0" width="192.614pt">
+    <Label-rectangle round="9.01417pt" id="0" height="144pt" width="192.614pt" x_waste="2.26772pt" y_waste="3.6pt">
       <Markup-margin size="0pt"/>
-      <Layout y0="19.8425pt" x0="11.3386pt" nx="3" dy="153.071pt" ny="5" dx="197.15pt"/>
+      <Layout nx="3" dy="153.071pt" x0="11.3386pt" ny="5" y0="19.8425pt" dx="197.15pt"/>
     </Label-rectangle>
   </Template>
-  <Objects rotate="false" id="0">
-    <Object-box h="40pt" w="201pt" a0="1" line_color="0x0" a1="0" shadow_opacity="1" lock_aspect_ratio="false" x="-4pt" fill_color="0x888a85ff" line_width="1pt" shadow_y="0pt" shadow_x="0pt" y="-4pt" a5="0" a2="0" a3="1" shadow_color="0xff" a4="0" shadow="false"/>
-    <Object-text h="36pt" w="67pt" a0="1" line_spacing="1" color="0xffffffff" valign="vcenter" font_italic="false" font_weight="bold" a1="0" shadow_opacity="1" align="hcenter" lock_aspect_ratio="false" x="126pt" shadow_y="0pt" shadow_x="0pt" font_underline="false" font_size="10" auto_shrink="false" y="0pt" a5="0" a2="0" wrap="word" a3="1" shadow_color="0xff" a4="0" shadow="false" font_family="Liberation Sans">
+  <Objects id="0" rotate="false">
+    <Object-box y="-4pt" a4="0" shadow_x="0pt" a1="0" line_width="1pt" lock_aspect_ratio="false" x="-4pt" w="201pt" shadow_opacity="1" shadow_color="0xff" shadow="false" a3="1" a5="0" fill_color="0x888888ff" line_color="0x0" h="40pt" a0="1" shadow_y="0pt" a2="0"/>
+    <Object-text font_italic="false" y="0pt" line_spacing="1" font_size="10" a4="0" shadow_x="0pt" font_family="Liberation Sans" a1="0" auto_shrink="false" lock_aspect_ratio="false" x="126pt" align="hcenter" color="0xffffffff" w="67pt" font_underline="false" shadow_opacity="1" shadow_color="0xff" wrap="word" shadow="false" a3="1" a5="0" valign="vcenter" font_weight="bold" h="36pt" a0="1" shadow_y="0pt" a2="0">
       <p>600</p>
     </Object-text>
-    <Object-image a3="1" shadow="false" y="10.568pt" a0="1" shadow_x="0pt" h="15.6892pt" shadow_opacity="1" a1="0" shadow_color="0xff" w="72pt" src="resources/Tandy_logo_white.svg" lock_aspect_ratio="false" a4="0" shadow_y="0pt" a2="0" a5="0" x="11.488pt"/>
-    <Object-line a3="1" shadow="false" y="54pt" a0="1" line_width="0.2pt" shadow_x="1.3pt" shadow_opacity="0.5" a1="0" shadow_color="0xff" line_color="0xff" a4="0" shadow_y="1.3pt" dy="0pt" a2="0" a5="0" x="-4pt" dx="201pt"/>
-    <Object-line a3="1" shadow="false" y="72pt" a0="1" line_width="0.2pt" shadow_x="1.3pt" shadow_opacity="0.5" a1="0" shadow_color="0xff" line_color="0xff" a4="0" shadow_y="1.3pt" dy="0pt" a2="0" a5="0" x="-4pt" dx="201pt"/>
-    <Object-line a3="1" shadow="false" y="90pt" a0="1" line_width="0.2pt" shadow_x="1.3pt" shadow_opacity="0.5" a1="0" shadow_color="0xff" line_color="0xff" a4="0" shadow_y="1.3pt" dy="0pt" a2="0" a5="0" x="-4pt" dx="201pt"/>
-    <Object-line a3="1" shadow="false" y="108pt" a0="1" line_width="0.2pt" shadow_x="1.3pt" shadow_opacity="0.5" a1="0" shadow_color="0xff" line_color="0xff" a4="0" shadow_y="1.3pt" dy="0pt" a2="0" a5="0" x="-4pt" dx="201pt"/>
-    <Object-line a3="1" shadow="false" y="126pt" a0="1" line_width="0.2pt" shadow_x="1.3pt" shadow_opacity="0.5" a1="0" shadow_color="0xff" line_color="0xff" a4="0" shadow_y="1.3pt" dy="0pt" a2="0" a5="0" x="-4pt" dx="201pt"/>
+    <Object-image src="resources/TANDY.svg" a3="1" lock_aspect_ratio="false" a0="1" h="15.135pt" shadow_y="0pt" shadow_opacity="1" shadow_color="0xff" a4="0" shadow="false" y="10.568pt" a1="0" x="11.488pt" w="72pt" a5="0" shadow_x="0pt" a2="0"/>
+    <Object-line line_width="0.2pt" a3="1" dy="0pt" a0="1" shadow_y="1.3pt" shadow_opacity="0.5" shadow_color="0xff" a4="0" shadow="false" y="54pt" a1="0" dx="201pt" line_color="0xff" x="-4pt" a5="0" shadow_x="1.3pt" a2="0"/>
+    <Object-line line_width="0.2pt" a3="1" dy="0pt" a0="1" shadow_y="1.3pt" shadow_opacity="0.5" shadow_color="0xff" a4="0" shadow="false" y="72pt" a1="0" dx="201pt" line_color="0xff" x="-4pt" a5="0" shadow_x="1.3pt" a2="0"/>
+    <Object-line line_width="0.2pt" a3="1" dy="0pt" a0="1" shadow_y="1.3pt" shadow_opacity="0.5" shadow_color="0xff" a4="0" shadow="false" y="90pt" a1="0" dx="201pt" line_color="0xff" x="-4pt" a5="0" shadow_x="1.3pt" a2="0"/>
+    <Object-line line_width="0.2pt" a3="1" dy="0pt" a0="1" shadow_y="1.3pt" shadow_opacity="0.5" shadow_color="0xff" a4="0" shadow="false" y="108pt" a1="0" dx="201pt" line_color="0xff" x="-4pt" a5="0" shadow_x="1.3pt" a2="0"/>
+    <Object-line line_width="0.2pt" a3="1" dy="0pt" a0="1" shadow_y="1.3pt" shadow_opacity="0.5" shadow_color="0xff" a4="0" shadow="false" y="126pt" a1="0" dx="201pt" line_color="0xff" x="-4pt" a5="0" shadow_x="1.3pt" a2="0"/>
   </Objects>
   <Data>
-    <File name="resources/Tandy_logo_white.svg" encoding="cdata" mimetype="image/svg+xml"><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg90"
-   version="1.1"
-   viewBox="0 0 205.19859 44.714049"
-   height="44.71405mm"
-   width="205.19859mm"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Tandy_logo_white.svg">
-  <defs
-     id="defs84" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="1416.3483"
-     inkscape:cy="-409.7867"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1376"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     units="mm"
-     fit-margin-top="1"
-     fit-margin-left="1"
-     fit-margin-right="1"
-     fit-margin-bottom="1"
-     inkscape:pagecheckerboard="true"
-     inkscape:showpageshadow="true" />
-  <metadata
-     id="metadata87">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(453.73918,4.3034528)">
-    <g
-       style="opacity:1;fill:#ffffff;fill-opacity:1"
-       id="g157"
-       inkscape:label="ink_ext_XXXXXX"
-       transform="matrix(0.28222222,0,0,-0.28222222,-452.73918,39.410598)">
-      <g
-         style="opacity:1;fill:#ffffff;fill-opacity:1"
-         id="g159"
-         transform="scale(0.1)">
-        <path
-           d="m 1653.82,621.355 193.78,546.135 206.61,-546.135 z m 443.92,892.135 h -509.3 L 1051.9,0 h 381.18 l 214.61,605.402 180.98,-309.101 h 350.75 L 2289.92,0 h 381.18 l -573.36,1513.49"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path161"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 7199.95,1513.49 h -419.61 l -368.36,-509.3 -366.77,509.3 H 5622.4 L 6222.99,687.086 V 0 h 379.57 v 687.086 l 597.39,826.404"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path163"
-           inkscape:connector-curvature="0" />
-        <path
-           d="M 3296.43,1513.49 H 2736.68 V 0 h 357.96 V 1153.13 L 3671.19,0 h 565.37 V 1513.49 H 3868.19 V 369.969 L 3296.43,1513.49"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path165"
-           inkscape:connector-curvature="0" />
-        <path
-           d="M 5024.57,329.93 H 4745.9 v 861.64 h 278.67 c 156.96,-4.79 245.04,-19.22 310.71,-91.28 64.06,-68.87 107.31,-219.423 107.31,-363.552 0,-283.488 -142.55,-395.597 -418.02,-406.808 z m 581.37,1045.84 c -127.32,120.91 -252.24,137.72 -573.35,137.72 H 4377.54 V 0 h 655.05 c 264.25,2.41016 440.43,28.8398 586.17,164.961 131.33,123.328 211.4,347.539 211.4,584.586 0,254.643 -83.28,493.273 -224.22,626.223"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path167"
-           inkscape:connector-curvature="0" />
-        <path
-           d="M 0,1513.49 V 1181.97 H 474.066 V 0 h 376.372 v 1181.97 h 414.812 l 124.92,331.52 H 0"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path169"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
+    <File name="resources/TANDY.svg" mimetype="image/svg+xml" encoding="cdata"><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<svg width="203.199mm" height="42.714mm" version="1.1" viewBox="0 0 203.199 42.714" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(513.155 225.326)">
+  <g transform="matrix(.282222 0 0 -.282222 -513.155 -182.612)" fill="#fff">
+   <g transform="scale(.1)" fill="#fff">
+    <path d="m1653.82 621.355 193.78 546.135 206.61-546.135zm443.92 892.135h-509.3l-536.54-1513.49h381.18l214.61 605.402 180.98-309.101h350.75l110.5-296.301h381.18l-573.36 1513.49"/>
+    <path d="m7199.95 1513.49h-419.61l-368.36-509.3-366.77 509.3h-422.81l600.59-826.404v-687.086h379.57v687.086l597.39 826.404"/>
+    <path d="m3296.43 1513.49h-559.75v-1513.49h357.96v1153.13l576.55-1153.13h565.37v1513.49h-368.37v-1143.52l-571.76 1143.52"/>
+    <path d="m5024.57 329.93h-278.67v861.64h278.67c156.96-4.79 245.04-19.22 310.71-91.28 64.06-68.87 107.31-219.423 107.31-363.552 0-283.488-142.55-395.597-418.02-406.808zm581.37 1045.84c-127.32 120.91-252.24 137.72-573.35 137.72h-655.05v-1513.49h655.05c264.25 2.41016 440.43 28.8398 586.17 164.961 131.33 123.328 211.4 347.539 211.4 584.586 0 254.643-83.28 493.273-224.22 626.223"/>
+    <path d="m0 1513.49v-331.52h474.066v-1181.97h376.372v1181.97h414.812l124.92 331.52h-1390.17"/>
+   </g>
   </g>
+ </g>
 </svg>
 ]]></File>
   </Data>
